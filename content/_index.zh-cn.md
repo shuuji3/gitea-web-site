@@ -16,5 +16,5 @@ type: "home"
 
 <div class="container">
 <a class="button is-success is-large" href="https://try.gitea.io" target="_blank">尝试 Gitea</a>
-<a class="button is-light is-large" href="https://docs.gitea.io">文档</a>
+<a class="button is-light is-large" href="https://docs.gitea.io/zh-cn/">文档</a>
 </div>
