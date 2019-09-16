@@ -248,7 +248,7 @@ languages:
         - name: ドキュメント
           url: https://docs.gitea.io/en-us
           weight: 20
-          pre: 質問
+          pre: question
         - name: API
           url: https://try.gitea.io/api/swagger
           weight: 45
