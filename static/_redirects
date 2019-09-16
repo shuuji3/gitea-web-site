@@ -1,6 +1,7 @@
 https://gitea-website.netlify.com/* https://gitea.io/:splat 302!
 https://www.gitea.io/* https://gitea.io/:splat 302!
 
+/ /ja-jp/ 302! Language=ja
 / /nl-nl/ 302! Language=nl
 / /pt-br/ 302! Language=pt-br
 / /zh-cn/ 302! Language=zh-cn
